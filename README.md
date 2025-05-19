@@ -26,7 +26,8 @@ We are deeply grateful for the valuable code and efforts contributed by the foll
 - Stationary (https://github.com/thuml/Nonstationary_Transformers)
 - Time-Series-Library (https://github.com/thuml/Time-Series-Library)
 
-- If you have any questions or suggestions, feel free to contact:
+
+If you have any questions or suggestions, feel free to contact:
 Fei Hao (2023110334@m.ldu.edu.cn)
 Xiaofeng Zhang (iamzxf@ldu.edu.cn)
 
