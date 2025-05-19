@@ -1,6 +1,6 @@
 # <center>LSMLSM</center>
 
-![Alt text](./pics/LSM.png)
+![Alt text](./pic/LSM.png)
 ### Welcome to the official repository of: [New Perspectives on Multivariate Time Series Forecasting: Lightweight Networks Combined with Multi-Scale Hybrid State Space Models]. 
 
 ## Usage
